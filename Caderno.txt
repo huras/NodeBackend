@@ -6,3 +6,6 @@ cria uma pasta src
     routes.js
     app.js
     server.js
+
+pra rodar:
+    node src/server.js
